@@ -1,4 +1,4 @@
-# Welcome to sc-mcphub!
+# Welcome to scmcphub!
 
 scmcphub is a community dedicated to developing and maintaining natural language interfaces for single-cell omics data analysis using MCP. 
 
